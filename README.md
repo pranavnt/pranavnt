@@ -12,16 +12,21 @@ Finally, I love hackathons, and have been using them as a means to applying many
 ### 🌱 I’m currently learning
 - Socket.io
 - MongoDB
+- Decentralized Applications
 - Transformers
 - Deep Q Learning (and Reinforcement Learning in general)
 
 ### 👯 I’m looking to collaborate on 
+I'd love to work on a hackathon project with you, and shoot me an email if you'd like to work together :)
 
-
-### 🤔 I’m looking for help with ...
 ### 💬 Ask me about
+I'd love to chat about recent developments in NLP (GPT-3, multimodal NLP, etc.), and am trying to  
 
 ### 📫 How to reach me: 
+If you want to collaborate on a project, feel free to send me an email! 
+Email: pranavnt@outlook.com
+Linkedin: https://www.linkedin.com/in/pranavnt
+DevPost: https://devpost.com/pranavnt
 
 ### 😄 Pronouns: He/Him
 ### ⚡ Fun fact: ...
