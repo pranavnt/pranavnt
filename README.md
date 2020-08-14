@@ -24,9 +24,9 @@ I'd love to chat about recent developments in NLP (GPT-3, multimodal NLP, etc.).
 
 ### 📫 How to reach me: 
 If you want to collaborate on a project, feel free to send me an email! \n
-Email: pranavnt@outlook.com \n
-Linkedin: https://www.linkedin.com/in/pranavnt \n
-DevPost: https://devpost.com/pranavnt \n
+Email: pranavnt@outlook.com  
+Linkedin: https://www.linkedin.com/in/pranavnt  
+DevPost: https://devpost.com/pranavnt  
 
 ### 😄 Pronouns: He/Him
 ### ⚡ Fun fact: hmmmmm
