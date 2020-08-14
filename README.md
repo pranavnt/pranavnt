@@ -3,7 +3,7 @@
 I'm Pranav Teegavarapu, and I'm a rising sophomore at Tesla STEM High School! My interests lie primarily with Machine Learning and Web Development, and I've completed multiple projects in these fields. 
 
 ### 🔭 I’m currently working on:
-I'm currently and intern at BrainSquall, a SaaS startup that's simplying the process of  by synchronizing a mindmap, outline, and table all into one. I began by working on frontend web development in Reactjs and am now working on Data Analytics.
+I'm currently and intern at BrainSquall, a SaaS startup that's simplying the process of business research by synchronizing a mindmap, outline, and table all into one. I began by working on frontend web development in Reactjs and am now working on Data Analytics.
 
 In addition, I'm a contributor to Libra, an open-source machine learning API that fully automates the standard ML pipeline (all to way from automatic preprocessing to hyperparameter optimization) to a one-line function call. I am currently workiing on the NLP module and am building a Question Answering query.
 
