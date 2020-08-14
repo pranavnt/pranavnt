@@ -23,7 +23,7 @@ I'd love to work on a hackathon project with you, and shoot me an email if you'd
 I'd love to chat about recent developments in NLP (GPT-3, multimodal NLP, etc.). NLP is a field that I've recently gotten interested in, and am trying to learn as much as I can about the field. If you have experience in NLP, and would like to chat, feel free to shoot me an email and I'd love to talk with you :)  
 
 ### 📫 How to reach me: 
-If you want to collaborate on a project, feel free to send me an email! \n
+If you want to collaborate on a project, feel free to send me an email!  
 Email: pranavnt@outlook.com  
 Linkedin: https://www.linkedin.com/in/pranavnt  
 DevPost: https://devpost.com/pranavnt  
