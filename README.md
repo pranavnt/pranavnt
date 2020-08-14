@@ -17,16 +17,16 @@ Finally, I love hackathons, and have been using them as a means to applying many
 - Deep Q Learning (and Reinforcement Learning in general)
 
 ### 👯 I’m looking to collaborate on 
-I'd love to work on a hackathon project with you, and shoot me an email if you'd like to work together :)
+I'd love to work on a hackathon project with you, and shoot me an email if you'd like to work together :D. I also am working on a few personal projects, and it would be great if you could reach out if you're interested in working with Socket.io or Tensorflow.js 
 
 ### 💬 Ask me about
-I'd love to chat about recent developments in NLP (GPT-3, multimodal NLP, etc.), and am trying to  
+I'd love to chat about recent developments in NLP (GPT-3, multimodal NLP, etc.). NLP is a field that I've recently gotten interested in, and am trying to learn as much as I can about the field. If you have experience in NLP, and would like to chat, feel free to shoot me an email and I'd love to talk with you :)  
 
 ### 📫 How to reach me: 
-If you want to collaborate on a project, feel free to send me an email! 
-Email: pranavnt@outlook.com
-Linkedin: https://www.linkedin.com/in/pranavnt
-DevPost: https://devpost.com/pranavnt
+If you want to collaborate on a project, feel free to send me an email! \n
+Email: pranavnt@outlook.com \n
+Linkedin: https://www.linkedin.com/in/pranavnt \n
+DevPost: https://devpost.com/pranavnt \n
 
 ### 😄 Pronouns: He/Him
-### ⚡ Fun fact: ...
+### ⚡ Fun fact: hmmmmm
