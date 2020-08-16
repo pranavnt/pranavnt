@@ -29,4 +29,3 @@ Linkedin: https://www.linkedin.com/in/pranavnt
 DevPost: https://devpost.com/pranavnt  
 
 ### 😄 Pronouns: He/Him
-### ⚡ Fun fact: hmmmmm
