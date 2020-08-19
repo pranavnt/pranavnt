@@ -12,9 +12,7 @@ Finally, I love hackathons, and have been using them as a means to applying many
 ### 🌱 I’m currently learning
 - Socket.io
 - MongoDB
-- Decentralized Applications
 - Transformers
-- Deep Q Learning (and Reinforcement Learning in general)
 
 ### 👯 I’m looking to collaborate on 
 I'd love to work on a hackathon project with you, and shoot me an email if you'd like to work together :D. I also am working on a few personal projects, and it would be great if you could reach out if you're interested in working with Socket.io or Tensorflow.js 
