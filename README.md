@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-I'm Pranav Teegavarapu, and I'm a rising sophomore at Tesla STEM High School! My interests lie primarily with Machine Learning and Web Development, and I've completed multiple projects in these fields. 
+I'm Pranav Teegavarapu, and I'm a rising sophomore at Tesla STEM High School! My interests lie primarily in Machine Learning and Web Development, and I've completed multiple projects in these fields. 
 
 ### 🔭 I’m currently working on:
 I'm currently an intern at BrainSquall, a SaaS startup that's simplying the process of business research by synchronizing a mindmap, outline, and table all into one. I began by working on frontend web development in Reactjs and am now working on Data Analytics.
