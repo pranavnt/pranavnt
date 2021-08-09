@@ -8,4 +8,4 @@ I'm Pranav Teegavarapu, and I'm a sophomore at Tesla STEM High School! I'm reall
   <li>I'm also a contributor to <a target="_blank" href="https://github.com/Palashio/Libra">Libra</a>, an open-source machine learning API that automates and abstracts away ML pipelines in their entirety—all the way from preprocessing to hyperparameter optimization. I am working on building a Q&A query</li>
 </ul>
 
-If you want to collaborate on a project or reach out, email me at pranavnt@outlook.com or feel free to connect on [LinkedIn](https://www.linkedin.com/in/pranavnt)
+If you want to collaborate on a project or reach out, DM me on Twitter at [@_pranavnt](https://twitter.com/_pranavnt)
