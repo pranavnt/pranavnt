@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-I'm Pranav Teegavarapu, and I'm a sophomore at Tesla STEM High School! I'm really interested in Machine Learning and Full Stack Development and have completed multiple projects in those fields! 
+I'm Pranav Teegavarapu, and I'm a Junior at Tesla STEM High School! I'm really interested in Machine Learning and Full Stack Development and have completed multiple projects in those fields! 
 
 <ul>
   <li>I'm currently working on <a target="_blank" href="https://github.com/kobra-dev">Kobra</a>, a visual programming language for ML. Stay tuned for updates :)</li>
